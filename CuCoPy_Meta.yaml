@@ -1,0 +1,36 @@
+info:
+  contact:
+    email: j.schoenau@fz-juelich.de
+    name: Julian Schoenau
+    url: https://orcid.org/0000-0003-4636-6465
+    x-affiliation: Forschungszentrum Juelich GmbH
+  description: The CuCoPy package provides methods for exchanging currencies and adjusting
+    monetary values for inflation until 1960 on a yearly basis.
+  license:
+    name: MIT
+  title: CuCoPyAnnotationDemo
+  version: '1.0'
+  x-category: finance
+  x-ci: ci.example
+  x-created: '2021-02-17'
+  x-dev-status: done
+  x-download-url: download-url.example
+  x-first-release: '2022-06-24'
+  x-funder: BMWK
+  x-funding: 03EI1005B
+  x-id: unique-id.example
+  x-issue-tracker: https://github.com/FZJ-IEK3-VSA/CuCoPy/issues
+  x-keywords: finance, conversion
+  x-os: Linux
+  x-part-of: LOD-GEOSS
+  x-platform: runtime-platform.example
+  x-programming-lang: python
+  x-reference-pub: reference-pub.example
+  x-related-links: related-link.example
+  x-release-notes: 'Features:
+
+    - adjust money for inflation (1960 - last calendar year)
+
+    - exchange currencies from 260+ countries'
+  x-repository: https://github.com/FZJ-IEK3-VSA/CuCoPyAnnotationDemo
+openapi: 3.0.0
